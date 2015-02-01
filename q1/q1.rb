@@ -5,9 +5,7 @@ def multiples(n1, n2, range)
       sum += mult
     end
   end
-
   puts sum
-
 end
 
 multiples(3, 5, 999) 
